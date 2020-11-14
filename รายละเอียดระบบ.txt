@@ -1,0 +1,17 @@
+รายละเอียดระบบของ Reprise Webboard - By ฉันเอง
+- sign up สมัครสมาชิก [ใช้ได้แล้ว]
+- sign in เข้าสู่ระบบ [ ใช้ได้แล้ว]
+- ส่งค่า SESSION + ตรวจสอบ SESSION [ใช้ได้แล้ว]
+- List ข้อมูลเป็นตาราง [ได้แล้ว]
+- กดเข้าไปดู topic + reply [ใช้ได้แล้ว]
+- สร้างกระทู้หรือ topic [ใช้ได้แล้ว]
+- ตอบ Reply [ใช้ได้แล้ว]
+- แก้ไข topic [ได้แล้ว]
+- แก้ไข Reply [ได้แล้ว]
+
+- Card most view & most reply [ยัง]
+- หน้าจัดการโปรไฟล์ + topic และ reply ของ user (ตรงนี้ สามารถลบได้) [ยัง]
+- List most view topic / List most reply topic [ยัง]
+- go to top button [ยัง]
+- Admin manage [ยัง]
+- textarea ของ tiny mce upload รูปได้ [ยัง]
